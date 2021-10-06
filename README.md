@@ -1,2 +1,3 @@
-# design-patterns
-learning how to implement various design patterns
+# Work in progress
+
+... more patterns are to be added later
